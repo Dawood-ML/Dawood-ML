@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyTorch
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love a girl that has no idea that I am working so hard for her
+- ⚡ Fun fact: I switched from being a lawyer to a data scientist
 
 <!---
 Dawood-ML/Dawood-ML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
