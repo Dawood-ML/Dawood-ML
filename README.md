@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Dawood-ML
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning TensorFlow
-- 📫 How to reach me 
+- 📫 How to reach me
+- LindedIn : https://www.linkedin.com/in/muhammad-dawood-khan-5a3292329/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I switched from being a lawyer to a data scientist
 
