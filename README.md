@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawood-ML
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me
 - LindedIn : https://www.linkedin.com/in/muhammad-dawood-khan-5a3292329/
 - 😄 Pronouns: he/him
