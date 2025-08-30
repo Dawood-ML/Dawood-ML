@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Pytorch
 - 📫 How to reach me
 - LindedIn : https://www.linkedin.com/in/muhammad-dawood-khan-5a3292329/
+- Mail : dawood.ml@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I switched from being a lawyer to a data scientist
 
