@@ -2,9 +2,9 @@
 
 **Data Science Student · MLOps Practitioner · Self-Taught ML Engineer**
 
-I've spent the last 2 years going deeper into ML than most people bother — second-order optimization, Neural Tangent Kernels, the stuff that actually matters. Now I'm bridging the gap between research and production with MLOps.
+Self-taught ML for about 2 years now — picked up everything from the basics to things like second-order optimization and Neural Tangent Kernels along the way. Recently started getting into MLOps because understanding models is one thing, but actually deploying them is a whole different story.
 
-Currently building the muscle to not just train models, but **ship them.**
+Still learning, still figuring things out — but genuinely enjoying the process.
 
 ---
 
@@ -64,4 +64,4 @@ Currently building the muscle to not just train models, but **ship them.**
 
 ---
 
-> *"A long way to go — but moving."*
+## > *A long way to go — but moving*
