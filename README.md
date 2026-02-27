@@ -49,9 +49,9 @@ Currently building the muscle to not just train models, but **ship them.**
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Dawood-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dawood-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dawood-ML&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawood-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
