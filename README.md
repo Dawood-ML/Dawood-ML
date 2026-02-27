@@ -51,10 +51,8 @@ Currently building the muscle to not just train models, but **ship them.**
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawood-ML&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawood-ML&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Dawood-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawood-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
